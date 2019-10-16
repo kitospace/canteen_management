@@ -1,0 +1,12 @@
+<head>
+  <script type="text/javascript" src="/scripts/jquery.min.js"></script>
+  <script type="text/javascript" src="/scripts/moment.min.js"></script>
+  <script type="text/javascript" src="/scripts/bootstrap.min.js"></script>
+  <script type="text/javascript" src="/scripts/bootstrap-datetimepicker.*js"></script>
+  <!-- include your less or built css files  -->
+  <!-- 
+  bootstrap-datetimepicker-build.less will pull in "../bootstrap/variables.less" and "bootstrap-datetimepicker.less";
+  or
+  <link rel="stylesheet" href="/Content/bootstrap-datetimepicker.css" />
+  -->
+</head>
